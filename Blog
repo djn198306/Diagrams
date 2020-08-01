@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-01T10:08:46.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="bXNF3lJm-KUy6zwMyqor" version="13.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-01T10:10:48.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="PF7R7cnDe_zMCSUAO95M" version="13.5.7" type="github">
   <diagram id="Hy3tiNHyhUkmFbfO_Gsf" name="Page-1">
     <mxGraphModel dx="812" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3ptcn3OLfJNhrafYAUCe-89" value="&lt;h1&gt;Rules of Reducers&lt;/h1&gt;&lt;p&gt;Must return any value besides &quot;undefined&quot;&lt;/p&gt;&lt;p&gt;Produces &quot;state&quot;, or data to be used inside of your app using only previous state and the action (reducers are pure)&lt;/p&gt;&lt;p&gt;Must not return reach &quot;out of itself&quot; to decide what value to return&lt;/p&gt;&lt;p&gt;Must not mutate its input &quot;state&quot; argument&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Courier New;align=left;glass=0;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="190" width="450" height="180" as="geometry" />
+          <mxGeometry x="40" y="200" width="450" height="180" as="geometry" />
         </mxCell>
         <mxCell id="3ptcn3OLfJNhrafYAUCe-90" value="" style="group;sketch=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="260" y="40" width="140" height="78" as="geometry" />
