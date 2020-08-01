@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2020-08-01T09:09:15.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" version="13.5.7" etag="BdiLUa9H-0tQWECMk90V" type="github"><diagram id="Hy3tiNHyhUkmFbfO_Gsf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-01T09:26:54.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="JSrgYYmykxGYBAQs-DPh" version="13.5.7" type="github">
+  <diagram id="Hy3tiNHyhUkmFbfO_Gsf" name="Page-1">
+    <mxGraphModel dx="651" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3ptcn3OLfJNhrafYAUCe-26" value="Store" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="420" y="40" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3ptcn3OLfJNhrafYAUCe-27" value="Reducers" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="3ptcn3OLfJNhrafYAUCe-26">
+          <mxGeometry x="10" y="30" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="3ptcn3OLfJNhrafYAUCe-28" value="postReducer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3ptcn3OLfJNhrafYAUCe-27">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3ptcn3OLfJNhrafYAUCe-34" value="Action Creators" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="3ptcn3OLfJNhrafYAUCe-35" value="fetchPosts" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3ptcn3OLfJNhrafYAUCe-34">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3ptcn3OLfJNhrafYAUCe-31" value="Action" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="140" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="3ptcn3OLfJNhrafYAUCe-33" value="type: &quot;FETCH_POST" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3ptcn3OLfJNhrafYAUCe-31">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3ptcn3OLfJNhrafYAUCe-32" value="payload: response" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3ptcn3OLfJNhrafYAUCe-31">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3ptcn3OLfJNhrafYAUCe-39" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="575" y="96" width="20" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3ptcn3OLfJNhrafYAUCe-40" value="Maintains an array of all fetched posts" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="595" y="91.5" width="110" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
