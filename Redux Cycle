@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-08-01T01:48:35.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" version="13.5.7" etag="BBHl66iTY53n8oMowJPl" type="github"><diagram id="Uai6FUV-Msub-W5JbNvg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-01T02:01:08.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="og__Psc7x9pZOGyZnzwE" version="13.5.7" type="github">
+  <diagram id="Uai6FUV-Msub-W5JbNvg" name="Page-1">
+    <mxGraphModel dx="919" dy="1309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xswWe170e9-VmstTjLly-2" value="&lt;h1&gt;Redux Cycle&lt;/h1&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fontFamily=Courier New;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xswWe170e9-VmstTjLly-3" value="&lt;h2&gt;Action Creator&lt;/h2&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=1;sketch=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xswWe170e9-VmstTjLly-4" value="&lt;h2&gt;Action&lt;/h2&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=1;sketch=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="603" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xswWe170e9-VmstTjLly-5" value="&lt;h2&gt;Dispatch&lt;/h2&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=1;sketch=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="540" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xswWe170e9-VmstTjLly-6" value="&lt;h2&gt;Reducers&lt;/h2&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=1;sketch=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="180" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xswWe170e9-VmstTjLly-8" value="&lt;h2&gt;State&lt;/h2&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=1;sketch=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
