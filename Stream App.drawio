@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-03T01:24:14.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="6JWbxBCie64npAwndfrE" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-03T01:35:42.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="3h0UOuTj8mhVty0Ck1En" version="13.5.8" type="github">
   <diagram id="-_rbKGu9ZdzDljOK5gZk" name="Page-1">
-    <mxGraphModel dx="1614" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1777" dy="1214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -422,7 +422,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HhIvebqKaa48LBWjBjAH-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="160" y="1780" width="120" height="90" as="geometry" />
+          <mxGeometry x="1760.0000000000002" y="1310" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HhIvebqKaa48LBWjBjAH-2" value="" style="group;shadow=1;sketch=1;" vertex="1" connectable="0" parent="HhIvebqKaa48LBWjBjAH-1">
           <mxGeometry width="120" height="90" as="geometry" />
@@ -434,34 +434,34 @@
           <mxGeometry width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HhIvebqKaa48LBWjBjAH-5" value="Open Broadcaster Software (OBS)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=1;" vertex="1" parent="HhIvebqKaa48LBWjBjAH-3">
-          <mxGeometry x="10" y="30" width="100" height="40" as="geometry" />
+          <mxGeometry x="10" y="25" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="HhIvebqKaa48LBWjBjAH-6" value="" style="group;verticalAlign=middle;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="360" y="1780" width="120" height="90" as="geometry" />
+          <mxGeometry x="2020" y="1310" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HhIvebqKaa48LBWjBjAH-7" value="" style="group;shadow=1;sketch=1;verticalAlign=middle;" vertex="1" connectable="0" parent="HhIvebqKaa48LBWjBjAH-6">
-          <mxGeometry width="120" height="90" as="geometry" />
+          <mxGeometry width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HhIvebqKaa48LBWjBjAH-8" value="" style="group;sketch=1;shadow=1;verticalAlign=middle;" vertex="1" connectable="0" parent="HhIvebqKaa48LBWjBjAH-7">
-          <mxGeometry width="120" height="90" as="geometry" />
+          <mxGeometry width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HhIvebqKaa48LBWjBjAH-9" value="Real Time Messaging Protocol (RTMP) Server" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;align=center;" vertex="1" parent="HhIvebqKaa48LBWjBjAH-8">
-          <mxGeometry width="120" height="90" as="geometry" />
+          <mxGeometry width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HhIvebqKaa48LBWjBjAH-11" value="" style="group;verticalAlign=middle;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="360" y="1610" width="120" height="90" as="geometry" />
+          <mxGeometry x="2000" y="1120" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="HhIvebqKaa48LBWjBjAH-12" value="" style="group;shadow=1;sketch=1;verticalAlign=middle;" vertex="1" connectable="0" parent="HhIvebqKaa48LBWjBjAH-11">
-          <mxGeometry width="120" height="90" as="geometry" />
+          <mxGeometry width="200" height="130.00000000000003" as="geometry" />
         </mxCell>
         <mxCell id="HhIvebqKaa48LBWjBjAH-13" value="" style="group;sketch=1;shadow=1;verticalAlign=middle;" vertex="1" connectable="0" parent="HhIvebqKaa48LBWjBjAH-12">
-          <mxGeometry width="120" height="90" as="geometry" />
+          <mxGeometry width="200" height="130.00000000000003" as="geometry" />
         </mxCell>
         <mxCell id="HhIvebqKaa48LBWjBjAH-14" value="Web Server that knows which streams are currently broadcasting" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;align=center;" vertex="1" parent="HhIvebqKaa48LBWjBjAH-13">
-          <mxGeometry width="120" height="90" as="geometry" />
+          <mxGeometry width="200" height="130.00000000000003" as="geometry" />
         </mxCell>
         <mxCell id="HhIvebqKaa48LBWjBjAH-15" value="" style="group;verticalAlign=middle;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="560" y="1690" width="120" height="90" as="geometry" />
+          <mxGeometry x="2320" y="1310" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HhIvebqKaa48LBWjBjAH-16" value="" style="group;shadow=1;sketch=1;verticalAlign=middle;" vertex="1" connectable="0" parent="HhIvebqKaa48LBWjBjAH-15">
           <mxGeometry width="120" height="90" as="geometry" />
@@ -472,26 +472,102 @@
         <mxCell id="HhIvebqKaa48LBWjBjAH-18" value="Viewer&#39;s Browser" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;align=center;" vertex="1" parent="HhIvebqKaa48LBWjBjAH-17">
           <mxGeometry width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="HhIvebqKaa48LBWjBjAH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HhIvebqKaa48LBWjBjAH-5" target="HhIvebqKaa48LBWjBjAH-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="HhIvebqKaa48LBWjBjAH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="HhIvebqKaa48LBWjBjAH-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1880" y="1355" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HhIvebqKaa48LBWjBjAH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HhIvebqKaa48LBWjBjAH-9" target="HhIvebqKaa48LBWjBjAH-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HhIvebqKaa48LBWjBjAH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="HhIvebqKaa48LBWjBjAH-14" target="HhIvebqKaa48LBWjBjAH-18">
+        <mxCell id="HhIvebqKaa48LBWjBjAH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.43;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HhIvebqKaa48LBWjBjAH-14" target="HhIvebqKaa48LBWjBjAH-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HhIvebqKaa48LBWjBjAH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HhIvebqKaa48LBWjBjAH-18" target="HhIvebqKaa48LBWjBjAH-9">
+        <mxCell id="HhIvebqKaa48LBWjBjAH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HhIvebqKaa48LBWjBjAH-18" target="HhIvebqKaa48LBWjBjAH-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HhIvebqKaa48LBWjBjAH-25" value="Video feed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1790" width="40" height="30" as="geometry" />
+          <mxGeometry x="1910" y="1355" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HhIvebqKaa48LBWjBjAH-26" value="A stream is available at mystreams.com/stream" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1620" width="120" height="30" as="geometry" />
+          <mxGeometry x="2210" y="1190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HhIvebqKaa48LBWjBjAH-27" value="Request to get video feed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1830" width="80" height="40" as="geometry" />
+          <mxGeometry x="2210" y="1350" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-81" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1760.0000000000002" y="1730" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-82" value="" style="group;shadow=1;sketch=1;" vertex="1" connectable="0" parent="HhIvebqKaa48LBWjBjAH-81">
+          <mxGeometry width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-83" value="" style="group;sketch=1;shadow=1;" vertex="1" connectable="0" parent="HhIvebqKaa48LBWjBjAH-82">
+          <mxGeometry width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-84" value="Streamer&#39;s Computer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="HhIvebqKaa48LBWjBjAH-83">
+          <mxGeometry width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-85" value="Open Broadcaster Software (OBS)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=1;" vertex="1" parent="HhIvebqKaa48LBWjBjAH-83">
+          <mxGeometry x="10" y="25" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-86" value="" style="group;verticalAlign=middle;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2020" y="1730" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-87" value="" style="group;shadow=1;sketch=1;verticalAlign=middle;" vertex="1" connectable="0" parent="HhIvebqKaa48LBWjBjAH-86">
+          <mxGeometry width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-88" value="" style="group;sketch=1;shadow=1;verticalAlign=middle;" vertex="1" connectable="0" parent="HhIvebqKaa48LBWjBjAH-87">
+          <mxGeometry width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-89" value="Real Time Messaging Protocol (RTMP) Server" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;align=center;" vertex="1" parent="HhIvebqKaa48LBWjBjAH-88">
+          <mxGeometry width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-90" value="" style="group;verticalAlign=top;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2000" y="1540" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-91" value="" style="group;shadow=1;sketch=1;verticalAlign=top;" vertex="1" connectable="0" parent="HhIvebqKaa48LBWjBjAH-90">
+          <mxGeometry width="200" height="130.00000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-92" value="" style="group;sketch=1;shadow=1;verticalAlign=middle;" vertex="1" connectable="0" parent="HhIvebqKaa48LBWjBjAH-91">
+          <mxGeometry width="200" height="130.00000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-93" value="API SERVER" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;align=center;" vertex="1" parent="HhIvebqKaa48LBWjBjAH-92">
+          <mxGeometry width="200" height="130.00000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-106" value="{ id: 1, title: &#39;My Stream&#39;, description: &#39;Some stream&#39; }&lt;br&gt;&lt;br&gt;{ id: 2, title: &#39;Code Stream&#39;, description: &#39;Coding&#39; }" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=1;" vertex="1" parent="HhIvebqKaa48LBWjBjAH-92">
+          <mxGeometry x="10" y="30" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-94" value="" style="group;verticalAlign=middle;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2320" y="1730" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-95" value="" style="group;shadow=1;sketch=1;verticalAlign=middle;" vertex="1" connectable="0" parent="HhIvebqKaa48LBWjBjAH-94">
+          <mxGeometry width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-96" value="" style="group;sketch=1;shadow=1;verticalAlign=middle;" vertex="1" connectable="0" parent="HhIvebqKaa48LBWjBjAH-95">
+          <mxGeometry width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-97" value="React app that can create and browse streams" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;align=center;" vertex="1" parent="HhIvebqKaa48LBWjBjAH-96">
+          <mxGeometry width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="HhIvebqKaa48LBWjBjAH-89" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1879.9999999999995" y="1775" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="HhIvebqKaa48LBWjBjAH-89" target="HhIvebqKaa48LBWjBjAH-93" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.43;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="HhIvebqKaa48LBWjBjAH-93" target="HhIvebqKaa48LBWjBjAH-97" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="HhIvebqKaa48LBWjBjAH-97" target="HhIvebqKaa48LBWjBjAH-89" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-102" value="i am creating stream id 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="1775" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HhIvebqKaa48LBWjBjAH-104" value="show me stream id 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="1770" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
