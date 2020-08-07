@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-07T02:21:03.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="rlUKmpMPjfedyg8h3bNN" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-07T02:33:51.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="yLVNlC0otK6H-y0tFp3B" version="13.5.9" type="github">
   <diagram id="qx7S7rTk6TN_ELoXKptz" name="Page-1">
     <mxGraphModel dx="1239" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -190,10 +190,31 @@
         <mxCell id="eeY68OqITYHxK5O6J6u2-114" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Feb 10, 2019&lt;/b&gt;&lt;br&gt;SGN to NRT&lt;br&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="350" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eeY68OqITYHxK5O6J6u2-117" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;direction=west;" vertex="1" parent="1">
+        <mxCell id="eeY68OqITYHxK5O6J6u2-120" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Jan 02, 2020&lt;/b&gt;&lt;br&gt;HNL to OGG&lt;br&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="554" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eeY68OqITYHxK5O6J6u2-121" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Mar 20, 2020&lt;/b&gt;&lt;br&gt;HNL to KOA&lt;br&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="554" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eeY68OqITYHxK5O6J6u2-122" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Jun 14, 2020&lt;/b&gt;&lt;br&gt;HNL to OGG&lt;br&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="554" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eeY68OqITYHxK5O6J6u2-124" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="190" y="430" width="80" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="eeY68OqITYHxK5O6J6u2-117" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;direction=west;" vertex="1" parent="eeY68OqITYHxK5O6J6u2-124">
+          <mxGeometry width="80" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="eeY68OqITYHxK5O6J6u2-119" value="&lt;b style=&quot;font-size: 10px&quot;&gt;Jan 25, 2019&lt;/b&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Vietnam Wedding&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="eeY68OqITYHxK5O6J6u2-117">
+          <mxGeometry x="5" y="60" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eeY68OqITYHxK5O6J6u2-125" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="660" y="430" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eeY68OqITYHxK5O6J6u2-126" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;direction=west;" vertex="1" parent="eeY68OqITYHxK5O6J6u2-125">
+          <mxGeometry width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eeY68OqITYHxK5O6J6u2-127" value="&lt;b style=&quot;font-size: 10px&quot;&gt;Jul 22, 2019&lt;/b&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;U.S. Wedding&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="eeY68OqITYHxK5O6J6u2-126">
           <mxGeometry x="5" y="60" width="75" height="20" as="geometry" />
         </mxCell>
       </root>
